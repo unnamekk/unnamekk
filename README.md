@@ -25,4 +25,4 @@ Let’s keep growing, one line of code at a time. 🚀
 
 ### 🔥 Featured Projects
 
-- [📱 My Android Music Player](https://github.com/unnamekk/hard-music-player) – A music player app built with Java and Android Studio.
+- [📱 My Android Music Player](https://github.com/unnamekk/hard-music) – A music player app built with Java and Android Studio.
